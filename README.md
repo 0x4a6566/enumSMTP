@@ -1,7 +1,7 @@
 # enumSMTP
 User enumeration in SMTP protocol
 
-Mode of use: python2 enumSMTP.py 172.16.1.5
+Mode of use: python2 enumSMTP.py 172.20.10.5
 
 ![image](https://user-images.githubusercontent.com/79952723/169074902-a43ba0b5-1ba6-4f4f-95ac-5c9d1768c686.png)
 
