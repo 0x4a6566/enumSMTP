@@ -2960,8 +2960,6 @@ adilio
 adner
 adolfo
 adonai
-adonias
-adonias
 adonilo
 adonis
 adorino
@@ -2970,8 +2968,6 @@ adrian
 adriano
 adriao
 adriel
-adrien
-adrien
 adrualdo
 adruzilo
 ady
@@ -3128,8 +3124,6 @@ antoine
 anton
 antonelo
 antonino
-antonio
-antonio
 aparicio
 apio
 apolinario
@@ -3138,8 +3132,6 @@ apolo
 apolonio
 aprigio
 aquil
-aquila
-aquila
 aquiles
 aquilino
 aquino
@@ -3190,8 +3182,6 @@ ary
 ascenso
 asdrubal
 aselio
-aser
-aser
 asher
 ashley
 assis
@@ -3348,8 +3338,6 @@ catilina
 caua
 caue
 cecilio
-cedric
-cedric
 cedrico
 celestino
 celino
@@ -3440,8 +3428,6 @@ dante
 dani
 darci
 darcio
-dario
-dario
 darius
 darque
 dave
@@ -3465,8 +3451,6 @@ delmiro
 demetrio
 dener
 denil
-denis
-denis
 denzel
 deodato
 deolindo
@@ -3496,8 +3480,6 @@ dino
 dioclecio
 diogo
 diomar
-dion
-dion
 dionisio
 diotil
 dirio
@@ -3536,14 +3518,8 @@ eanes
 eberardo
 eda
 eddie
-eden
-eden
-eder
-eder
 edgar
 edgard
-edi
-edi
 edipo
 edir
 edmero
@@ -3571,8 +3547,6 @@ eliab
 eliabe
 eliano
 elias
-eliezer
-eliezer
 elijah
 elio
 elioenaielionai
@@ -3589,8 +3563,6 @@ eloy
 elpidio
 elsio
 elson
-elton
-elton
 elvino
 elzeario
 elzo
@@ -3605,8 +3577,6 @@ emo
 eneias
 enes
 engracio
-enio
-enio
 enoque
 enrico
 enrique
@@ -3614,13 +3584,9 @@ enzo
 erasmo
 ercilio
 eric
-erico
-erico
 erik
 erique
 ermiterio
-ernani
-ernani
 ernest
 ernesto
 esau
@@ -3632,8 +3598,6 @@ esteban
 estefanio
 estefano
 estelio
-estevao
-estevao
 ethan
 etiene
 etienne
@@ -3731,8 +3695,6 @@ fred
 freddie
 freddy
 frede
-frederick
-frederick
 frederico
 fredo
 fredy
@@ -3876,8 +3838,6 @@ heredia
 heredio
 heriberto
 herlander
-herman
-herman
 hermano
 hermenegildo
 hermes
@@ -3916,8 +3876,6 @@ idario
 idavide
 idelso
 idriss
-ignacio
-ignacio
 igor
 iker
 ildefonso
@@ -3955,8 +3913,6 @@ isolino
 israel
 issa
 italo
-iuri
-iuri
 ivaldo
 ivan
 ivandro
@@ -4007,8 +3963,6 @@ jean
 jeremias
 jeremy
 jeronimo
-jesse
-jesse
 jesualdo
 jesus
 jetro
@@ -4034,8 +3988,6 @@ jon
 jonah
 jonas
 jonata
-jonatas
-jonatas
 jonathan
 jonathas
 joni
@@ -4072,8 +4024,6 @@ juliao
 julien
 julio
 junio
-junior
-junior
 juno
 jupiter
 justin
@@ -4127,11 +4077,7 @@ lemuel
 lenine
 lenio
 lenny
-leo
-leo
 leoberto
-leon
-leon
 leonardo
 leoncio
 leone
@@ -4142,8 +4088,6 @@ leonidio
 leonildo
 leopoldo
 lev
-levi
-levi
 levy
 liam
 liberal
@@ -4252,8 +4196,6 @@ marius
 mark
 markus
 marley
-marlon
-marlon
 marolo
 marques
 martim
@@ -4297,8 +4239,6 @@ mel
 melchior
 melco
 melquisedeque
-melvin
-melvin
 mem
 mendo
 mesaque
@@ -4314,8 +4254,6 @@ mike
 milan
 mileu
 milo
-milton
-milton
 mimon
 mimoso
 ming
@@ -4354,8 +4292,6 @@ neil
 nelio
 nelmo
 nelo
-nelson
-nelson
 nembrode
 nemesio
 nemo
@@ -4411,8 +4347,6 @@ octaviano
 octavio
 odair
 odeberto
-odin
-odin
 olavo
 olegario
 olimpio
@@ -4438,11 +4372,7 @@ orlandino
 orlando
 orlindo
 orosio
-oscar
-oscar
 oseas
-oseias
-oseias
 osiris
 osmano
 osmar
@@ -4461,8 +4391,6 @@ pablo
 paco
 pacal
 paio
-parcidio
-parcidio
 paris
 pascoal
 patricio
@@ -4537,16 +4465,12 @@ ramberto
 ramires
 ramiro
 ramna
-ramon
-ramon
 randolfo
 raoni
 rapaz
 raphael
 raul
 raven
-ravi
-ravi
 reece
 reeve
 regan
@@ -4618,8 +4542,6 @@ rubio
 ruby
 ruca
 rudesindo
-rudi
-rudi
 rudolfo
 rudy
 rufino
@@ -4764,8 +4686,6 @@ teliano
 telmo
 telo
 tenorio
-teo
-teo
 teobaldo
 teodemiro
 teodomiro
@@ -4778,8 +4698,6 @@ teotonio
 tercio
 terencio
 terry
-theo
-theo
 theodore
 theodoro
 thiago
@@ -5024,11 +4942,7 @@ alethea
 alexa
 alexandra
 alexandrina
-alexia
-alexia
 alexina
-alexis
-alexis
 alfreda
 alia
 aliana
@@ -5084,8 +4998,6 @@ anaice
 anaide
 anair
 anais
-anaisa
-anaisa
 analdina
 analia
 analice
@@ -5287,11 +5199,7 @@ carmelia
 carmelina
 carmelinda
 carmelita
-carmen
-carmen
 carmezinda
-carmina
-carmina
 carminda
 carminho
 carmo
@@ -5343,16 +5251,12 @@ chema
 chen
 chi
 chiara
-chloe
-chloe
 ciana
 ciara
 cibele
 cidalia
 cidalina
 cidalisa
-cinara
-cinara
 cinderela
 cindy
 cinira
@@ -5383,8 +5287,6 @@ clelia
 clemencia
 clementina
 clementine
-cleo
-cleo
 cleodice
 cleonice
 cleopatra
@@ -5392,16 +5294,12 @@ clesia
 clicia
 climenia
 clivia
-cloe
-cloe
 clorinda
 clotilde
 colete
 conceicao
 concha
 consolacao
-constanca
-constanca
 constance
 constancia
 constantina
@@ -5495,8 +5393,6 @@ deodata
 deodete
 deolinda
 deonilde
-deotila
-deotila
 derocila
 desideria
 desiree
@@ -5514,8 +5410,6 @@ digna
 diliana
 dilma
 dilsa
-dina
-dina
 dinamene
 dinarda
 dinarta
@@ -5570,8 +5464,6 @@ dunia
 earine
 ecaterina
 eda
-eden
-eden
 ederia
 edina
 edine
@@ -5630,8 +5522,6 @@ ellie-rosa
 elma
 elmira
 eloa
-elodia
-elodia
 eloisa
 eloise
 elsa
@@ -5662,8 +5552,6 @@ enilda
 eola
 eponina
 ercilia
-erica
-erica
 erika
 erin
 eris
@@ -5688,8 +5576,6 @@ esther
 estrela
 estrella
 estrelle
-etel
-etel
 etelca
 etelvina
 eteria
@@ -6056,8 +5942,6 @@ jorja
 josabete
 josana
 joscelina
-josefa
-josefa
 josefina
 joselene
 joselia
@@ -6134,8 +6018,6 @@ laia
 laila
 lainey
 laira
-lais
-lais
 laisa
 lana
 lara
@@ -6156,24 +6038,12 @@ laurine
 lavinia
 laya
 layla
-lea
-lea
-leah
-leah
-leana
-leana
 leandra
-leane
-leane
-leanor
-leanor
 leena
 leia
 leila
 leire
 lelia
-lena
-lena
 lenia
 lenira
 lenora
@@ -6227,8 +6097,6 @@ lidiana
 liduina
 liete
 ligia
-lila
-lila
 lili
 lilia
 lilian
@@ -6310,8 +6178,6 @@ luela
 luena
 luisa
 luisete
-luiza
-luiza
 luizete
 luma
 lumen
@@ -6349,8 +6215,6 @@ magui
 maia
 maiara
 maide
-maira
-maira
 maisa
 maite
 maya
@@ -6385,8 +6249,6 @@ margaux
 margot
 marguerita
 mari
-maria
-maria
 mariah
 maria da gloria
 maria da graca
@@ -6478,10 +6340,6 @@ megan
 mei
 meiline
 mel
-melania
-melania
-melanie
-melanie
 melida
 melina
 melinda
@@ -6568,11 +6426,7 @@ naida
 naide
 nail
 naila
-naima
-naima
 nair
-naira
-naira
 naisa
 nala
 nali
@@ -6581,8 +6435,6 @@ naly
 nami
 namira
 nance
-nanci
-nanci
 nancy
 nanete
 nanina
@@ -6620,8 +6472,6 @@ nelma
 nelsa
 nely
 nelly
-nene
-nene
 neotera
 nercia
 nerea
@@ -6662,14 +6512,10 @@ nisa
 nise
 nisia
 nivalda
-noa
-noa
 noah
 noelia
 noelie
 noelma
-noemi
-noemi
 noemia
 noi
 noiala
@@ -6733,8 +6579,6 @@ otilina
 oureana
 palmira
 paloma
-pamela
-pamela
 pandora
 paola
 paolla
@@ -6802,8 +6646,6 @@ rafaella
 ragendra
 raina
 raisa
-raissa
-raissa
 ramna
 rania
 rapaz
@@ -7039,8 +6881,6 @@ sulamita
 summer
 sunamita
 suri
-suria
-suria
 suriel
 sury
 surya
@@ -7059,8 +6899,6 @@ tabatha
 tabita
 taciana
 taia
-taina
-taina
 tais
 taisa
 taissa
@@ -7069,8 +6907,6 @@ talina
 talita
 tallulah
 tamar
-tamara
-tamara
 tanagra
 tania
 tara
@@ -7169,12 +7005,8 @@ vicencia
 vicenta
 vicki
 vicky
-victoria
-victoria
 vida
 vienna
-viktoria
-viktoria
 vilar
 vilma
 vinicia
@@ -7228,8 +7060,6 @@ zahra
 zaida
 zaira
 zamy
-zara
-zara
 zarah
 zarina
 ze
@@ -7253,8 +7083,6 @@ ziva
 ziza
 zoa
 zobaida
-zoe
-zoe
 zoey
 zola
 zora
