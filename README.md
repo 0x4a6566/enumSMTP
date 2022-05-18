@@ -12,3 +12,5 @@ to edit the users wordlist, open the script with nano or vim
 Change line 11, with the name or directory of your wordlist.
 
 ![image](https://user-images.githubusercontent.com/79952723/169088793-43edffb3-497e-4bed-9db1-663dc9b07c24.png)
+
+The wordlist users.txt was created based on proper names of people from Brazil and abroad.
